@@ -12,4 +12,4 @@ This project implements five supervised learning algorithms: Decision Tree, K-ne
 * Click on the runtime option above. Then proceed to click run all to run the entire notebook
 * note: It might take a while to finish running the whole notebooks, so it might be ideal to run only a few desired focused cells
 
-All code related files for this project can be found in the following repo: https://github.com/naralakamsani/supervised_learning.git
+**All code related files for this project can be found in the following repo:** https://github.com/naralakamsani/supervised_learning.git
