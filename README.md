@@ -1,5 +1,5 @@
 # Supervised Learning
-Narasimha Lakamsani - nlakamsani3@gatech.edu
+    Narasimha Lakamsani - nlakamsani3@gatech.edu
 This project implements five supervised learning algorithms: Decision Tree, K-nearest Neighbors, boosting, support vector machines, and neural networks. These algorithms are evaluated on 2 different datasets.
 
 ### Datasets
